@@ -1,0 +1,9 @@
+.bg-box {
+    width: 90%;
+    height: 600px;
+    background-color: green;
+    background-image: url(../img/animal.webp), url(../img/lamp.png), url(../img/donuts.png), url(../img/green.png), url(../img/house.webp);
+    background-repeat: repeat-y, repeat-x, repeat-y, repeat-x, no-repeat;
+    background-position: left bottom, left top, right top, right bottom, center;
+    background-size: 50px, 50px, 50px, 400px, 400px;
+}
